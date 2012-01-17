@@ -1,0 +1,7 @@
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Interfaces\bin\Debug\GalleryServerPro.Business.Interfaces.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Interfaces\bin\Debug\GalleryServerPro.Business.Interfaces.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Interfaces\bin\Debug\EntityFramework.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Interfaces\bin\Debug\EntityFramework.xml
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Interfaces\obj\Debug\GalleryServerPro.Business.Interfaces.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Interfaces\obj\Debug\GalleryServerPro.Business.Interfaces.pdb

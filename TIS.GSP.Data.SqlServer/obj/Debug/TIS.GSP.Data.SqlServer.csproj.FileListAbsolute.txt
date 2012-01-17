@@ -1,0 +1,8 @@
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Data.SqlServer\obj\Debug\ResolveAssemblyReference.cache
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Data.SqlServer\obj\Debug\GalleryServerPro.Data.SqlServer.Properties.Resources.resources
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Data.SqlServer\obj\Debug\GenerateResource.read.1.tlog
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Data.SqlServer\obj\Debug\GenerateResource.write.1.tlog
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\Website\bin\GalleryServerPro.Data.SqlServer.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\Website\bin\GalleryServerPro.Data.SqlServer.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Data.SqlServer\obj\Debug\GalleryServerPro.Data.SqlServer.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Data.SqlServer\obj\Debug\GalleryServerPro.Data.SqlServer.pdb

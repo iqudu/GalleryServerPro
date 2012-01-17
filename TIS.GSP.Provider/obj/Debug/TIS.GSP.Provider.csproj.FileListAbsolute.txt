@@ -1,0 +1,11 @@
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Provider\obj\Debug\ResolveAssemblyReference.cache
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Provider\bin\Debug\GalleryServerPro.Provider.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Provider\bin\Debug\GalleryServerPro.Provider.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Provider\bin\Debug\GalleryServerPro.Business.Interfaces.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Provider\bin\Debug\GalleryServerPro.Configuration.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Provider\bin\Debug\EntityFramework.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Provider\bin\Debug\GalleryServerPro.Business.Interfaces.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Provider\bin\Debug\GalleryServerPro.Configuration.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Provider\bin\Debug\EntityFramework.xml
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Provider\obj\Debug\GalleryServerPro.Provider.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Provider\obj\Debug\GalleryServerPro.Provider.pdb

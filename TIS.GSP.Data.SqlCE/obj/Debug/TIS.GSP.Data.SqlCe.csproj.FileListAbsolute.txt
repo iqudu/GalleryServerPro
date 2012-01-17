@@ -1,0 +1,5 @@
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Data.SqlCE\obj\Debug\ResolveAssemblyReference.cache
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\Website\bin\GalleryServerPro.Data.SqlCe.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\Website\bin\GalleryServerPro.Data.SqlCe.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Data.SqlCE\obj\Debug\GalleryServerPro.Data.SqlCe.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Data.SqlCE\obj\Debug\GalleryServerPro.Data.SqlCe.pdb

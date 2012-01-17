@@ -1,0 +1,6 @@
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.WebControls\bin\Debug\GalleryServerPro.WebControls.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.WebControls\bin\Debug\GalleryServerPro.WebControls.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.WebControls\bin\Debug\ComponentArt.Web.UI.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.WebControls\obj\Debug\ResolveAssemblyReference.cache
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.WebControls\obj\Debug\GalleryServerPro.WebControls.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.WebControls\obj\Debug\GalleryServerPro.WebControls.pdb

@@ -1,0 +1,10 @@
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business\bin\Debug\GalleryServerPro.Business.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business\bin\Debug\GalleryServerPro.Business.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business\bin\Debug\nl\GalleryServerPro.Business.resources.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Resources\obj\Debug\ResolveAssemblyReference.cache
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Resources\obj\Debug\GalleryServerPro.Business.Properties.Resources.nl.resources
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Resources\obj\Debug\GenerateResource.read.1.tlog
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Resources\obj\Debug\GenerateResource.write.1.tlog
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Resources\obj\Debug\nl\GalleryServerPro.Business.resources.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Resources\obj\Debug\GalleryServerPro.Business.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Resources\obj\Debug\GalleryServerPro.Business.pdb

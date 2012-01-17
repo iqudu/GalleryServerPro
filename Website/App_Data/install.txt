@@ -1,0 +1,3 @@
+﻿The existence of this file triggers Gallery Server Pro to start the Install Wizard.
+This file is automatically deleted when the install is finished. If for some reason 
+it cannot be deleted, you can manually delete it.

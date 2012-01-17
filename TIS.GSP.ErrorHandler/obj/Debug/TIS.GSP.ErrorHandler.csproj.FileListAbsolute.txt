@@ -1,0 +1,16 @@
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\obj\Debug\ResolveAssemblyReference.cache
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\obj\Debug\GalleryServerPro.ErrorHandler.Properties.Resources.resources
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\obj\Debug\GenerateResource.read.1.tlog
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\obj\Debug\GenerateResource.write.1.tlog
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\bin\Debug\GalleryServerPro.ErrorHandler.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\bin\Debug\GalleryServerPro.ErrorHandler.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\bin\Debug\GalleryServerPro.Business.Interfaces.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\bin\Debug\GalleryServerPro.Provider.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\bin\Debug\EntityFramework.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\bin\Debug\GalleryServerPro.Configuration.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\bin\Debug\GalleryServerPro.Business.Interfaces.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\bin\Debug\GalleryServerPro.Provider.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\bin\Debug\EntityFramework.xml
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\bin\Debug\GalleryServerPro.Configuration.pdb
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\obj\Debug\GalleryServerPro.ErrorHandler.dll
+D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.ErrorHandler\obj\Debug\GalleryServerPro.ErrorHandler.pdb
